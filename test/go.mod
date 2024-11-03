@@ -4,4 +4,4 @@ go 1.23.2
 
 // indirect
 
-require github.com/ElectronSz/tornado v1.1.2
+require github.com/ElectronSz/tornado v1.1.3
