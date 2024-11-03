@@ -16,6 +16,6 @@ func (*Tornado) Start() {
 	println("Starting new tornado server")
 }
 func (*Tornado) newServer(opts Options) error {
-	println("Stating server", opts.port)
+	println("Stating server", opts.Port)
 	return nil
 }
