@@ -1,7 +1,7 @@
 package tornado
 
 type Options struct {
-	port int32
+	Port int32
 }
 
 type Tornado struct {
