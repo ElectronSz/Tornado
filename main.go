@@ -12,7 +12,7 @@ type Server interface {
 	Start(*Tornado)
 }
 
-func Start(tornado *Tornado) {
+func Start() {
 	println("Starting new tornado server")
 }
 func newServer(opts Options) *Tornado {
