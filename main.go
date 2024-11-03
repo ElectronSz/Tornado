@@ -10,13 +10,13 @@ type Tornado struct {
 
 type Server interface {
 	Start()
-	newServer(opts Options) error
+	NewServer(opts Options) error
 }
 
 func (*Tornado) Start() {
 	println("Starting new tornado server")
 }
-func (*Tornado) newServer(opts Options) error {
+func (*Tornado) NewServer(opts Options) error {
 	println("Stating server", opts.Port)
 	return nil
 }

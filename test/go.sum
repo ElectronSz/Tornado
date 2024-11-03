@@ -8,3 +8,5 @@ github.com/ElectronSz/tornado v1.1.3 h1:3tFQ+LIag5QuCbFtSRh8uthTB2z6VAcZL0eoR2yB
 github.com/ElectronSz/tornado v1.1.3/go.mod h1:QvqdCokahCHkxN+pWMlXG9Q+9odz1iXzDB5xWZCboyc=
 github.com/ElectronSz/tornado v1.1.4 h1:iGxtljhAyRU8ImXrWkhq54p4AlYJbMvl7QGc92zxDnk=
 github.com/ElectronSz/tornado v1.1.4/go.mod h1:QvqdCokahCHkxN+pWMlXG9Q+9odz1iXzDB5xWZCboyc=
+github.com/ElectronSz/tornado v1.1.5 h1:vDdGnbM3O6TwPL6wTvi4V4qUCDLILQVM7yj3fg8HIsg=
+github.com/ElectronSz/tornado v1.1.5/go.mod h1:QvqdCokahCHkxN+pWMlXG9Q+9odz1iXzDB5xWZCboyc=
