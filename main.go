@@ -15,8 +15,7 @@ type Server interface {
 func Start() {
 	println("Starting new tornado server")
 }
-func newServer(opts Options) *Tornado {
-	return &Tornado{
-		opts,
-	}
+func (*Tornado) newServer(opts Options) error {
+	println("Stating server")
+	return nil
 }
