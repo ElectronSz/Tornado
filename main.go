@@ -10,6 +10,7 @@ type Tornado struct {
 
 type Server interface {
 	Start()
+	newServer(opts Options) error
 }
 
 func (*Tornado) Start() {
